@@ -1,0 +1,21 @@
+{
+  "name": "react-native-qrcode-logo",
+  "version": "0.0.1",
+  "description": "react-native qrocode with logo generator",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/myronliu/react-native-qrcode-logo.git"
+  },
+  "keywords": [
+    "react-native",
+    "qrcode"
+  ],
+  "author": "myron.liu <657703512@qq.com>",
+  "bugs": {
+    "url": "https://github.com/cssivision/react-native-qrcode/issues"
+  },
+  "dependencies": {
+    "qr.js": "0.0.0"
+  }
+}
