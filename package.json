@@ -1,12 +1,8 @@
 {
   "name": "react-native-qrcode-logo",
-  "version": "0.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
-  "dependencies": {
-    "qr.js": "^0.0.0"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,10 +14,13 @@
     "react-native",
     "qrcode"
   ],
-  "author": "myronliu",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/myronliu/react-native-qrcode-logo/issues"
   },
-  "homepage": "https://github.com/myronliu/react-native-qrcode-logo#readme"
+  "homepage": "https://github.com/myronliu/react-native-qrcode-logo#readme",
+  "dependencies": {
+    "qr.js": "0.0.0"
+  }
 }
